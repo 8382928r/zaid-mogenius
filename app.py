@@ -7,4 +7,4 @@ def hello_world():
    return 'Hello, World!'
 
 #Ex https://Itz-zaid:ghp_147bkkabcdefgh@github.com/Itz-zaid/anything
-os.system("git clone https://username:token@github.com/username/reponame ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 main.py &")
+os.system("git clone https://gokdelenler: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@github.com/gokdelenler/mogenius ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 -m telegram &")
